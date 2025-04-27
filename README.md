@@ -1,3 +1,7 @@
+Demir YILMAZ 21211875
+Vadym FILATOV 21210463
+Kristina KASHPERUK 21210406
+
 Projet Dockerisé avec Kafka et Strapi
 Ce projet utilise Docker Compose pour configurer et gérer plusieurs services pour un pipeline de données en temps réel, y compris Kafka, Strapi, Postgres, ainsi que divers producteurs et consommateurs. Il démontre comment ces services peuvent communiquer entre eux dans un environnement conteneurisé Docker.
 
